@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **prashanthgowda.gd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XPI5KmI5LM9weuCX4TCnaaOwLYwCUFhX/view?usp=sharing](https://drive.google.com/file/d/1XPI5KmI5LM9weuCX4TCnaaOwLYwCUFhX/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1ZpxJKnWK9XNA7oR8RECM45tya9epPqR0/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
