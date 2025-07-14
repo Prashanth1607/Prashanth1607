@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanth1607" alt="prashanth1607" /></a> </p>
 
-- 🌱 I’m currently learning **Devops, Node JS, and AI **
+- 🌱 I’m currently learning **Devops, Node JS, and AI**
 
 - 👨‍💻 All of my projects are available at [https://prashanthgowdagd.netlify.app/](https://prashanthgowdagd.netlify.app/)
 
