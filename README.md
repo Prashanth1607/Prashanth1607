@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Devops, Node JS, and AI**
 
-- 👨‍💻 All of my projects are available at [https://prashanthgowdagd.netlify.app/](https://prashanthgowdagd.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://threedportfolio-website.onrender.com/](https://threedportfolio-website.onrender.com/)
 
 - 📫 How to reach me **prashanthgowda.gd@gmail.com**
 
